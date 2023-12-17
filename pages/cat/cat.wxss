@@ -1,0 +1,22 @@
+.out{
+  padding: 50rpx;
+  
+}
+.out .box{
+  width: 100%;
+  height:500rpx;
+  border: 1px solid #eeeeee;
+  margin-bottom: 20rpx;
+}
+.out .box .picture{
+  width: 100%;
+  height: 400rpx;
+}
+.out .box .picture image{
+  width: 100%;
+  height: 100%;
+}
+.out .box .text{
+  text-align: center;
+  line-height: 100rpx;
+}

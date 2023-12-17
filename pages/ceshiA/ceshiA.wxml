@@ -1,0 +1,5 @@
+<view class="out">
+  <button type="primary" bind:tap="toB">
+    登录
+  </button>
+</view>

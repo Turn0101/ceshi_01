@@ -1,0 +1,10 @@
+<view class="out">
+  <view class="box" wx:for="{{listArr}}" wx:key="id">
+    <view class="picture">
+      <image src="{{item.url}}" mode="aspectFill"/>
+    </view>
+    <view class="text">
+      名字：{{item.id}}
+    </view>
+  </view>
+</view>
